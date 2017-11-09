@@ -1,4 +1,4 @@
-package com.example.abhishek.splitcircleview
+package com.example.abhishek.splitcircleprogress
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle

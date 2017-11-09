@@ -1,4 +1,4 @@
-package com.example.abhishek.splitcircleview
+package com.example.abhishek.splitcircleprogress
 
 import org.junit.Test
 
